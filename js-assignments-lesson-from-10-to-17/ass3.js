@@ -1,0 +1,1 @@
+console.log('`I\'m In \n \\\\\n Love \\\\ """ \'\'\'\n ++ width ++ \n \\"""\\"""\n ""JavaScript""``');
